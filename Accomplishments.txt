@@ -1,0 +1,52 @@
+DVB-NIP Demo to CTO, SVPs, VP
+H3 BYOD Demo
+New CPE Arch - IP Streamer
+Reverse Eng TC
+Codec Video Quality comparison - FFMPEG PSNR, SSIM, VMAF & BD Rate 
+VWAP Removal WiFi6 - iperf, IxChariot Tests
+USB Throughput on H3
+Presence Detection Final - UWB + BT & APIs to STB
+Presence Detection - BT Phone & Tag
+Presence Detection - AI Camera
+Presence Detection - WiFi
+Presence Detection - UWB
+Netflix Adaptive BitRate
+DHG to President and CEO
+Dish Home Gateway MoCA + Broadband
+
+DolbyVision Side by Side demos
+
+
+Dolby Certifications
+Audit Engineering Support: Dolby, AAC, HEVC
+DCS Certifications
+CC, CGMS-A
+
+H3 A/V & Modem HW design
+Joey1 A/V HW design
+
+
+
+Hackathon:
+QR Code based AR Video
+Solar Powered Remote Control
+Rechargeable Li-Ion USB Remote Control
+Remote STB control of ATV Joeys
+Local LLM to parse internal documents
+
+AI/ML - TensorFlow Examples on Mobile
+Super Res
+Pose Estimation
+Gesture Classification
+Audio Classification
+
+
+Patents:
+
+Cell Phone Content Watch Parties
+Marker-Based Representation of Real Objects in Virtual Environments
+DEVICES, SYSTEMS, AND METHODS FOR MULTI-USER SCREEN SHARING
+Machine Learning Avatar for Consolidating and Presenting Data in Virtual Environments
+
+Event Ticketing System
+
